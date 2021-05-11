@@ -15,6 +15,6 @@ Project Kepypoints:
 
 • Visualized the time-series data and calculated intraday returns on stocks and checked their distribution to perform the equities' trend analysis
 
-• Visualized traders and investors confidence in companies by plotting daily returns on shares against their volumes
+• Presented traders and investors confidence in companies by plotting daily returns on shares against their volumes
 
 • Generated correlation between stocks and compared their volatilities against the S&P 500 Index for performing risk assessment of the portfolio
